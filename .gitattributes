@@ -1,1 +1,3 @@
-Frontend/* linguist-vendored
+Frontend/** linguist-vendored
+*.js linguist-vendored
+*.jsx linguist-vendored
